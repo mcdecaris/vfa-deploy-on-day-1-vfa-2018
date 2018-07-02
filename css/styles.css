@@ -323,11 +323,11 @@ a:visited {
  * STUDENT IMAGE STYLES
  */
 
-#joe-burgess-card {
- background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
+#Leah-Sherman-card {
+ background-image: url("https://imgur.com/a/wvVwpRZ");
 }
 
-#joe-burgess-cover {
+#Leah-Sherman {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
 }
 
@@ -349,12 +349,12 @@ a:visited {
 
 /* TODO: Add your partner's image styles
 
-#firstname-lastname-cover {
-  background-image: url("link to imgur cover photo");
+#leah-sherman-cover {
+  background-image: url("https://imgur.com/a/wvVwpRZ");
 }
 
-#firstname-lastname-card {
-  background-image: url("link to imgur card photo");
+#leah-sherman-card {
+  background-image: url("https://imgur.com/a/RLbV1Wd");
 }
 */
 
